@@ -1,0 +1,34 @@
+{
+  "seed": 7936,
+  "falhas": {
+    "oscilacao": {
+      "duracao_pts": [
+        36,
+        72
+      ],
+      "n_eventos": 16,
+      "amp": [
+        4.0,
+        8.0
+      ]
+    },
+    "lacuna": {
+      "duracao_pts": [
+        24,
+        48
+      ],
+      "n_eventos": 13
+    },
+    "queda": {
+      "duracao_pts": [
+        18,
+        36
+      ],
+      "n_eventos": 17,
+      "delta": [
+        -35.0,
+        -10.0
+      ]
+    }
+  }
+}

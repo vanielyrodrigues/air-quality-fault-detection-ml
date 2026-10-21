@@ -1,0 +1,28 @@
+{
+  "PM25": {
+    "validacoes": 4320,
+    "avaliacoes_teste": 80,
+    "cobertura_eventos": "confere com as bases simuladas reconstruídas e as predições arquivadas"
+  },
+  "PM10": {
+    "validacoes": 4320,
+    "avaliacoes_teste": 80,
+    "cobertura_eventos": "confere com as bases simuladas reconstruídas e as predições arquivadas"
+  },
+  "Temperatura": {
+    "validacoes": 4320,
+    "avaliacoes_teste": 80,
+    "cobertura_eventos": "confere com as bases simuladas reconstruídas e as predições arquivadas"
+  },
+  "Umidade": {
+    "validacoes": 4320,
+    "avaliacoes_teste": 80,
+    "cobertura_eventos": "confere com as bases simuladas reconstruídas e as predições arquivadas"
+  },
+  "regras": {
+    "eventos": 60,
+    "detectados": 60,
+    "preexistentes": 14,
+    "adicionais_novas": 0
+  }
+}
