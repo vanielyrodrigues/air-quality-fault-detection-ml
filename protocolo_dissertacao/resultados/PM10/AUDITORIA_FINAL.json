@@ -1,0 +1,14 @@
+{
+  "status": "OK",
+  "validacoes": 4320,
+  "configuracoes_fixas": 8,
+  "avaliacoes_finais": 80,
+  "verificacoes": [
+    "Seleção independente pela média das 5 rodadas",
+    "Janela e avanço fixos nas 5 rodadas",
+    "Todas as posições do teste cobertas",
+    "Sem janelas duplicadas ou fora da partição",
+    "Matrizes e F1 reproduzidos a partir das predições",
+    "Sem rótulos artificiais de normalidade no teste sem injeção"
+  ]
+}

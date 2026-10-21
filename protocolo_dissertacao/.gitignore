@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+execucoes/
+bases_reproduzidas/
+catboost_info/
+*.tmp
