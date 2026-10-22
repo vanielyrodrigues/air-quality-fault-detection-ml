@@ -100,27 +100,21 @@ As janelas permanecem dentro de suas respectivas partições. Lacuna, stuck e st
 
 # Estrutura do repositório
 
-```text
-air-quality-fault-detection-ml/
-│
-├── dataError_IC-master/
-│   Código principal da dissertação
-│
-├── graficos_artigo_mp25_1/
-│   Figuras utilizadas na dissertação
-│
-├── raw_data_DUSTAI/
-│   Base de dados utilizada nos experimentos
-│
-├── main e ajustes originais/
-│   Versões iniciais do desenvolvimento
-│
-├── LICENSE
-│
-└── README.md
-```
+O protocolo revisado está organizado em:
+
+| Diretório | Conteúdo |
+|---|---|
+| `protocolo_dissertacao/src/` | Programas Python |
+| `protocolo_dissertacao/dados/` | Base consolidada de entrada |
+| `protocolo_dissertacao/resultados/` | Resultados das quatro variáveis, regras e comparações |
+| `protocolo_dissertacao/docs/` | Documentação e registros de conferência |
+
+As dependências estão em `protocolo_dissertacao/requirements.txt`.
+
+As demais pastas preservam materiais de etapas anteriores da pesquisa.
 
 ---
+
 
 # Código do protocolo revisado
 
