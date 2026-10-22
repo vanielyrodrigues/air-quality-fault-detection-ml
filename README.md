@@ -182,17 +182,7 @@ Para consultar a versão citada na dissertação, utilize o [commit adfcaf7](htt
 
 # Como citar este trabalho
 
-Caso este repositório seja utilizado em pesquisas acadêmicas, recomenda-se citar a dissertação correspondente.
-
-**Rodrigues, Vaniely.**
-
-*Detecção de Falhas em Sensores de Qualidade do Ar utilizando Aprendizado de Máquina.*
-
-Programa de Pós-Graduação em Ciência da Computação.
-
-Universidade Estadual do Oeste do Paraná (UNIOESTE).
-
-2026.
+CRUZ, Vaniely Rodrigues da. **Detecção de Falhas de Sensores no Monitoramento de Qualidade do Ar Utilizando Aprendizado de Máquina**. 2026. Dissertação (Mestrado em Ciência da Computação) — Universidade Estadual do Oeste do Paraná, Cascavel, 2026.
 
 ---
 
