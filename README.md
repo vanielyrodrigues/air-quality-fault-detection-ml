@@ -38,7 +38,7 @@ Vaniely Rodrigues
 
 **Orientador**
 
-Prof. Dr. Roberto Sheffel
+Prof. Dr. Roberto Milton Scheffel
 
 ---
 
