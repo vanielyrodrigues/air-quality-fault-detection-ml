@@ -43,7 +43,7 @@ Prof. Dr. Roberto Milton Scheffel
 
 # Objetivo
 
-Desenvolver uma metodologia capaz de detectar automaticamente falhas em sensores ambientais de baixo custo utilizando técnicas de Aprendizado de Máquina, aumentando a confiabilidade dos dados coletados por redes de monitoramento da qualidade do ar.
+Avaliar classificadores supervisionados e regras determinísticas para identificar padrões indicativos de falhas em séries temporais de sensores ambientais de baixo custo. A avaliação considera falhas simuladas e sinalizações em dados sem injeção artificial, sem confirmação independente de falhas físicas.
 
 ---
 
