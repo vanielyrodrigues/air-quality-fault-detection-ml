@@ -122,48 +122,23 @@ air-quality-fault-detection-ml/
 
 ---
 
-# Código principal da dissertação
+# Código do protocolo revisado
 
-O desenvolvimento principal desta pesquisa encontra-se na pasta:
+Os programas utilizados no protocolo revisado estão em:
 
-```text
-dataError_IC-master/
-```
+[protocolo_dissertacao/src](protocolo_dissertacao/src/)
 
-Nessa pasta estão implementados:
+Essa pasta reúne a preparação dos dados, a simulação das falhas, a formação das janelas, a extração dos atributos, o treinamento, a seleção na validação e a avaliação dos classificadores e das regras determinísticas.
 
-- simulação das falhas;
-- processamento das séries temporais;
-- geração automática das características;
-- treinamento dos modelos;
-- avaliação dos classificadores;
-- geração automática das tabelas;
-- geração automática dos gráficos.
+Os resultados das quatro variáveis estão em:
+
+[protocolo_dissertacao/resultados](protocolo_dissertacao/resultados/)
+
+As instruções de execução estão no [README do protocolo](protocolo_dissertacao/README.md).
+
+As pastas anteriores são preservadas como histórico do desenvolvimento.
 
 ---
-
-# Código dos experimentos multivariáveis
-
-O módulo responsável pelos experimentos realizados com as quatro variáveis ambientais encontra-se em:
-
-```text
-dataError_IC-master/
-└── PROJETO MULTIVARIÁVEL/
-```
-
-Esse módulo reúne:
-
-- experimentos para PM2.5;
-- experimentos para PM10;
-- experimentos para Temperatura;
-- experimentos para Umidade;
-- cinco rodadas experimentais;
-- relatórios completos;
-- resultados gerados automaticamente;
-- tabelas utilizadas na dissertação.
-
----
-
 # Resultados disponibilizados
 
 O repositório disponibiliza os resultados completos produzidos durante os experimentos, incluindo:
