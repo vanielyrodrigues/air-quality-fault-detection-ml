@@ -2,8 +2,7 @@
 
 # Fault Detection in Low-Cost Air Quality Sensors using Machine Learning
 
-## Detecção de Falhas em Sensores de Qualidade do Ar utilizando Aprendizado de Máquina
-
+## Detecção de Falhas de Sensores no Monitoramento de Qualidade do Ar Utilizando Aprendizado de Máquina
 ---
 
 ## Sobre o projeto
@@ -22,7 +21,7 @@ Este repositório constitui o **material suplementar oficial da dissertação**,
 
 **Título da dissertação**
 
-Detecção de Falhas em Sensores de Qualidade do Ar utilizando Aprendizado de Máquina
+Detecção de Falhas de Sensores no Monitoramento de Qualidade do Ar Utilizando Aprendizado de Máquina
 
 **Programa**
 
