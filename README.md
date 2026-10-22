@@ -58,14 +58,12 @@ Desenvolver uma metodologia capaz de detectar automaticamente falhas em sensores
 
 # Falhas simuladas
 
-Os experimentos contemplam a detecção automática das seguintes categorias de falhas:
+O protocolo avalia cinco categorias:
 
-- Oscilação
-- Queda
-- Lacuna
+- Oscilação e Queda: classificadores supervisionados de aprendizado de máquina.
+- Lacuna, stuck e stuck-at-zero: regras determinísticas de ausência ou persistência das leituras.
 
-As falhas foram inseridas automaticamente em séries temporais ambientais para avaliar a capacidade dos modelos de aprendizado de máquina em reconhecer eventos anômalos.
-
+As falhas são inseridas artificialmente em séries ambientais. Os resultados avaliam o reconhecimento desses padrões simulados; não confirmam, isoladamente, falhas físicas nos sensores.
 ---
 
 # Modelos de Aprendizado de Máquina
