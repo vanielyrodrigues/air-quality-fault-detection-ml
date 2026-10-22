@@ -4,6 +4,13 @@
 
 ## Detecção de Falhas de Sensores no Monitoramento de Qualidade do Ar Utilizando Aprendizado de Máquina
 ---
+## Protocolo revisado da dissertação
+
+Os programas Python, a base consolidada de entrada e os resultados do protocolo temporal revisado estão na pasta [protocolo_dissertacao](protocolo_dissertacao/).
+
+Consulte as [instruções de execução e a organização dos materiais](protocolo_dissertacao/README.md).
+
+As demais pastas preservam materiais de etapas anteriores da pesquisa.
 
 ## Sobre o projeto
 
