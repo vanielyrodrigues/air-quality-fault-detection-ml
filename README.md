@@ -86,25 +86,16 @@ Foram avaliados os seguintes algoritmos:
 
 # Fluxo geral da metodologia
 
-```text
-Dados ambientais
-        │
-        ▼
-Simulação das falhas
-        │
-        ▼
-Pré-processamento
-        │
-        ▼
-Extração de características
-        │
-        ▼
-Treinamento dos modelos
-        │
-        ▼
-Avaliação dos resultados
-```
+Para os classificadores de Oscilação e Queda:
 
+1. Ordenação cronológica dos dados.
+2. Separação em treinamento (60%), validação (20%) e teste (20%).
+3. Preparação dos dados separadamente em cada partição.
+4. Injeção das falhas simuladas e formação das janelas com seus atributos e rótulos.
+5. Treinamento dos classificadores e seleção das configurações na validação.
+6. Avaliação no teste com e sem injeção artificial.
+
+As janelas permanecem dentro de suas respectivas partições. Lacuna, stuck e stuck-at-zero são avaliados separadamente por regras determinísticas.
 ---
 
 # Estrutura do repositório
