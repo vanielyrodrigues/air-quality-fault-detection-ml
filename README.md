@@ -157,17 +157,13 @@ anteriores e devem ser consultadas como histórico.
 
 # Reprodutibilidade
 
-Todos os experimentos apresentados na dissertação podem ser reproduzidos utilizando os códigos disponibilizados neste repositório.
+As instruções de execução, as dependências e a organização dos arquivos estão no [README do protocolo revisado](protocolo_dissertacao/README.md).
 
-Os scripts permitem reproduzir:
+O pacote inclui a base consolidada de entrada, os programas Python, as configurações, as sementes de simulação e os resultados arquivados. Os arquivos individuais originais de aquisição não estão incluídos nessa pasta.
 
-- simulação das falhas;
-- geração automática das características;
-- treinamento dos modelos;
-- avaliação dos classificadores;
-- geração das métricas;
-- geração das tabelas;
-- geração das figuras.
+As rotinas de conferência permitem recalcular métricas a partir das predições publicadas. Essa verificação é distinta de repetir o treinamento completo dos modelos.
+
+Para consultar a versão citada na dissertação, utilize o [commit adfcaf7](https://github.com/vanielyrodrigues/air-quality-fault-detection-ml/tree/adfcaf730c47e0b035a240b3ac73605448ff1e96/protocolo_dissertacao).
 
 ---
 
