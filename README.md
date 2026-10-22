@@ -181,7 +181,7 @@ CRUZ, Vaniely Rodrigues da. **Detecção de Falhas de Sensores no Monitoramento 
 
 # Contato
 
-Vaniely Rodrigues
+Vaniely Rodrigues da Cruz
 
 Programa de Pós-Graduação em Ciência da Computação
 
