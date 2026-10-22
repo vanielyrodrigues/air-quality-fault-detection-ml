@@ -2,6 +2,18 @@
 
 Detecção de padrões simulados de falha em séries de PM2,5, PM10, Temperatura e Umidade. São avaliados Random Forest, MLP, XGBoost e CatBoost para Oscilação e Queda, além de regras determinísticas para Lacuna, stuck e stuck-at-zero.
 
+## Análises complementares
+
+O arquivo [Complementos_Revisao_Final_20261022.zip](Complementos_Revisao_Final_20261022.zip) reúne os códigos Python, dados de conferência e resultados das análises complementares:
+
+- comparação com detectores simples de Oscilação e Queda;
+- cálculo do coeficiente de correlação de Matthews (MCC);
+- controles de duração das regras determinísticas;
+- auditoria das ausências, proporções de pontos e janelas positivas e cruzamentos das sinalizações;
+- código e dados para reproduzir a figura da série de PM2,5 antes da interpolação.
+
+Para consultar ou executar esses materiais, baixe e extraia o ZIP. As instruções e dependências estão no README interno. As análises complementares não alteram o treinamento nem as configurações dos quatro classificadores arquivados.
+
 ## Organização
 
 | Pasta | Conteúdo |
