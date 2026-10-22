@@ -141,16 +141,17 @@ As pastas anteriores são preservadas como histórico do desenvolvimento.
 ---
 # Resultados disponibilizados
 
-O repositório disponibiliza os resultados completos produzidos durante os experimentos, incluindo:
+Os resultados do protocolo revisado estão em
+[protocolo_dissertacao/resultados](protocolo_dissertacao/resultados/).
 
-- arquivos CSV;
-- métricas de desempenho;
-- matrizes de confusão;
-- tabelas completas;
-- figuras;
-- relatórios.
+Eles incluem configurações selecionadas, métricas,
+predições por janela, registros de eventos injetados,
+cobertura dos eventos, alertas externos, matrizes de
+confusão, tabelas, figuras e relatórios de conferência.
 
-Todos os resultados correspondem aos experimentos descritos na dissertação.
+As demais pastas podem conter resultados de etapas
+anteriores e devem ser consultadas como histórico.
+
 
 ---
 
