@@ -14,13 +14,12 @@ As demais pastas preservam materiais de etapas anteriores da pesquisa.
 
 ## Sobre o projeto
 
-Este repositório contém todo o código-fonte desenvolvido durante a dissertação de Mestrado em Ciência da Computação da Universidade Estadual do Oeste do Paraná (UNIOESTE).
+Este repositório reúne programas Python e materiais suplementares da dissertação de Mestrado em Ciência da Computação da Universidade Estadual do Oeste do Paraná (UNIOESTE).
 
-A pesquisa propõe uma metodologia baseada em Aprendizado de Máquina para detecção automática de falhas em sensores de baixo custo utilizados no monitoramento da qualidade do ar.
+O protocolo revisado avalia classificadores e regras determinísticas em séries de PM2,5, PM10, Temperatura e Umidade, considerando padrões simulados de falha e sinalizações em dados sem injeção artificial.
 
-Além do código-fonte, este repositório disponibiliza todos os scripts utilizados durante o desenvolvimento da pesquisa, incluindo a preparação dos dados, simulação das falhas, treinamento dos modelos de aprendizado de máquina, geração automática das características e produção dos resultados experimentais apresentados na dissertação.
+Os materiais e procedimentos de execução estão descritos na documentação da pasta `protocolo_dissertacao`.
 
-Este repositório constitui o **material suplementar oficial da dissertação**, permitindo a reprodução dos experimentos descritos no trabalho.
 
 ---
 
