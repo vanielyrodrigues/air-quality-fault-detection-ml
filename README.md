@@ -39,7 +39,7 @@ Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
 **Autora**
 
-Vaniely Rodrigues
+Vaniely Rodrigues da Cruz
 
 **Orientador**
 
