@@ -1,0 +1,27 @@
+{
+  "tipo": "reavaliacao_exploratoria_retrospectiva",
+  "passo_minutos": 10,
+  "persistencias": [
+    1,
+    2,
+    3
+  ],
+  "votos": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "selecao": "validacao_cobertura90_F1medio_fallback_maior_cobertura",
+  "aquecimento": "maximo_janela_menos1_por_tarefa",
+  "intervalos": "fechados",
+  "modelos_retreinados": false,
+  "preparacao": "interpolacao_publicada_inclusive_lacunas_simuladas",
+  "limites": [
+    "periodo_de_teste_ja_inspecionado",
+    "sem_validacao_fisica",
+    "rotulos_dos_modelos_sao_de_janela_nao_de_instante",
+    "nao_e_avaliacao_completa_das_cinco_categorias",
+    "interpolacao_pode_usar_valores_futuros"
+  ]
+}

@@ -1,0 +1,6 @@
+evento_id,falha,inicio_idx,fim_idx,inicio,fim,duracao_pts,valor_injetado
+stuck_at_zero_01,stuck_at_zero,191,219,2023-11-03 17:20:00,2023-11-03 22:00:00,29,0.0
+stuck_at_zero_02,stuck_at_zero,310,342,2023-11-04 13:10:00,2023-11-04 18:30:00,33,0.0
+stuck_at_zero_03,stuck_at_zero,440,473,2023-11-05 10:50:00,2023-11-05 16:20:00,34,0.0
+stuck_at_zero_04,stuck_at_zero,767,791,2023-11-07 17:20:00,2023-11-07 21:20:00,25,0.0
+stuck_at_zero_05,stuck_at_zero,867,900,2023-11-08 10:00:00,2023-11-08 15:30:00,34,0.0

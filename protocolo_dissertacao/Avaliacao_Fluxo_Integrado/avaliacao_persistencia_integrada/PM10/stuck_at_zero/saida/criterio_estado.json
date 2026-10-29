@@ -1,0 +1,15 @@
+{
+  "categorias_avaliadas": [
+    "lacuna",
+    "stuck",
+    "stuck_at_zero",
+    "oscilacao",
+    "queda"
+  ],
+  "combinacao": "Uniao dos intervalos positivos; para os classificadores, pelo menos um dos quatro modelos.",
+  "alcance": "Demonstracao retrospectiva; nao se interpreta como fusao validada ou diagnostico fisico.",
+  "instante_referencia": "Instante abrangido pelo intervalo sinalizado, nao horario de emissao de alerta.",
+  "sem_sinalizacao": "Nenhum metodo sinalizou as cinco categorias no instante abrangido; leitura presente e cobertura completa.",
+  "multiplas_categorias": "Preservadas sem prioridade exclusiva.",
+  "comparacao": "Os resultados individuais e metricas anteriores nao sao substituidos por esta regra de uniao."
+}

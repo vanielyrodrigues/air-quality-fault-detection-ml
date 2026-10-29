@@ -1,0 +1,1412 @@
+[
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_1/log_teste.csv",
+    "sha256": "6975bf81602d319a44f327474e521c9bd2e0f1cd1112f04aa34da518de703be2",
+    "bytes": 1033
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_1/log_validacao.csv",
+    "sha256": "8f2fc2987734b00d948ed57c15771a03aeae698f67b8143f53b52290ecd90ea7",
+    "bytes": 968
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_1/teste.csv",
+    "sha256": "7a13e069d1e97021b97f7cf26c479a3fade5678a28d651c508dd0a5dfb92a43f",
+    "bytes": 90705
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_1/treino.csv",
+    "sha256": "858539d7d098196b464d6a07d84b4e81739c6a3539d534a341601663c3498a7b",
+    "bytes": 297899
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_1/validacao.csv",
+    "sha256": "12cb42ce246a4233817cddb03484178ceeaba8684e8ca62b338e771d4325d9f2",
+    "bytes": 143538
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_2/log_teste.csv",
+    "sha256": "82bd871a2f3ef598962b4bb9a0d6eda50f20a1b3113333432bc100a189ed8953",
+    "bytes": 1102
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_2/log_validacao.csv",
+    "sha256": "892fdbded0e714ef8ab09d1b8112b21edc5ce40825f15a2db2543f8d60d0a2ff",
+    "bytes": 913
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_2/teste.csv",
+    "sha256": "816a416b3264bc4dfdc6dd590efa58b081ca59622af040f907a39b2970be21ca",
+    "bytes": 91209
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_2/treino.csv",
+    "sha256": "6fa65ea7e4366c15201c7c5bf5c89253676ff89162c91e421d9cb7836040f711",
+    "bytes": 297278
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_2/validacao.csv",
+    "sha256": "14724ec98c03054e5d4e2fcef315c00810d4d5df6232f920e42646d7c561ca70",
+    "bytes": 146386
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_3/log_teste.csv",
+    "sha256": "b568d5fcdf1018943eac5beecb722edc5637970244c019c3bfbbfe874835dfb0",
+    "bytes": 1094
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_3/log_validacao.csv",
+    "sha256": "2bd58a376ffd9aafed63f98743fe637959da5746565dd9b984549af41ff610aa",
+    "bytes": 982
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_3/teste.csv",
+    "sha256": "24d12d215cc6f6b24734c0799877ab53c321bc159bfa2bfd1c8f2193db40bf44",
+    "bytes": 91752
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_3/treino.csv",
+    "sha256": "dd65378d20efb1ff221afb125b700c8ca9538801b2ba1aabc50b44520282c6ab",
+    "bytes": 294706
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_3/validacao.csv",
+    "sha256": "bea5e30652659aaa48f870e0fab01ea727555096c2dc2464621d22d81e508625",
+    "bytes": 145710
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_4/log_teste.csv",
+    "sha256": "100ce15fc3dfaecbbc7b9d05b90439bf89f3cfef0e66aebfff74304a0a1a8499",
+    "bytes": 1033
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_4/log_validacao.csv",
+    "sha256": "2aee6dcc88731addb19b30bdd5de65da906f224c2f545708c47f7a38d5bd5df4",
+    "bytes": 1041
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_4/teste.csv",
+    "sha256": "7e6a7abc87f6e039230db77d5f820693ec8f9c36fda3c0332ca9418f8ffcb8e9",
+    "bytes": 90835
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_4/treino.csv",
+    "sha256": "97036f216df64c903133aea0c9cc7de722003a4fbb502bc46779342e40e50053",
+    "bytes": 294562
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_4/validacao.csv",
+    "sha256": "aaf1ac6d803744fb6c1265e8a47dfa93b966d932c5416647483a4831ace9145b",
+    "bytes": 146507
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_5/log_teste.csv",
+    "sha256": "a36ced8369388890445be0cee15d3ee4eea323e969b3a2d1b39983db03e9b232",
+    "bytes": 1041
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_5/log_validacao.csv",
+    "sha256": "ccb13308ede0c0fa961a50910728f1a65efc73f9c0937881047dcec83bf47b2f",
+    "bytes": 846
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_5/teste.csv",
+    "sha256": "f14993cceeeda11cd2a9cf0c4f7bf5f2b81e08a095557cd9e7ac90bd13e93a57",
+    "bytes": 91672
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_5/treino.csv",
+    "sha256": "a95810284019cd30865a56e03d221e8ddee00f0a22f43748ddd2f7f6e725f589",
+    "bytes": 295879
+  },
+  {
+    "arquivo": "fontes/entradas/PM10/bases/rodada_5/validacao.csv",
+    "sha256": "f90d9f779533ea22722aa8bb846ead1e693a793443c71be3ccf268f509199c62",
+    "bytes": 144235
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_1/log_teste.csv",
+    "sha256": "25d77fc0a98c5b724922bc25b12ff3cfaccc3169823a2ea4f363fd25c054a325",
+    "bytes": 966
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_1/log_validacao.csv",
+    "sha256": "5fd53c0f2bef6c9921118100a43fc7498493f6ba629404c7b5fa0493c28d87ab",
+    "bytes": 972
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_1/teste.csv",
+    "sha256": "1ca5b6e70268cde1931b9331ce089b6785dd5f088bbfe1506fc3ce45e9ed8495",
+    "bytes": 89248
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_1/treino.csv",
+    "sha256": "49730c26e6241f9968274423e3143c8f44b726d7446ab9edbc33b23b11ca8b79",
+    "bytes": 301321
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_1/validacao.csv",
+    "sha256": "64c8cf9c9a0ff1f21088f929c9ea966f70d0f23d0ac3733b58a4d9ff2b64c519",
+    "bytes": 145271
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_2/log_teste.csv",
+    "sha256": "3f2c14fedaf4bb586dea4ce3dfc61aa8fc89de11cb4191996cea71c0e23ae336",
+    "bytes": 1035
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_2/log_validacao.csv",
+    "sha256": "2f8e82c8a923a6092585c1ebcc59210b7d44c2fa194fb7d930b05543ce3f8e1c",
+    "bytes": 1100
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_2/teste.csv",
+    "sha256": "7025055932cd0be6263fc26b12408513f9c91ca7a792bb64ecc21b6fce6adde8",
+    "bytes": 90052
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_2/treino.csv",
+    "sha256": "d13073a4b2e9c270e11cc8ad66b2ae89254330bb1498c947b82b9c4e40573808",
+    "bytes": 294831
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_2/validacao.csv",
+    "sha256": "b3af84a42d0612b72f50ebb7dd5def406adfb553ecc20db47e6a99332814f674",
+    "bytes": 145241
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_3/log_teste.csv",
+    "sha256": "80f8486f26804d500b2c482e2e7d1f79e8569bba23c72088bf294cf0fd5537f6",
+    "bytes": 1027
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_3/log_validacao.csv",
+    "sha256": "1c4edbf5f4a506b4b1cd079bd974c16cc079026a57dd9368075c0a434b36bd9e",
+    "bytes": 909
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_3/teste.csv",
+    "sha256": "3bb9bd576694adbfeaf59a5dd71e2e40a946607a83f4f998e32868f2a75564b6",
+    "bytes": 88422
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_3/treino.csv",
+    "sha256": "c456666d9f2de1473ce3c0203b150eae3db44101d6dd726ee02abba13dabe6ba",
+    "bytes": 295433
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_3/validacao.csv",
+    "sha256": "4e006abe8dd68e27a88e80a929878a2b2f8af527ac14aaf8b557d5fc14bd188b",
+    "bytes": 144631
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_4/log_teste.csv",
+    "sha256": "47b95475ae49b00b89ab9aee9ec5a96a318f8fbf36a2442eccc7a4222cf912d8",
+    "bytes": 1035
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_4/log_validacao.csv",
+    "sha256": "7c493a59a1ca8e0b9362edc3d3ad100431d5028d7d3e492c8d8be17fbf191eda",
+    "bytes": 913
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_4/teste.csv",
+    "sha256": "523a0eee41433afddd3acb849c3cea61075dfed5cc8dbd58fee79f54c127953f",
+    "bytes": 90425
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_4/treino.csv",
+    "sha256": "1a68237731e3430f8319cdaf94e9b55130446aa3e7f85c396b56fb810166883c",
+    "bytes": 297361
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_4/validacao.csv",
+    "sha256": "51739b78f6de615e8dbf37c31f6f20e920012bcc11184325f36c430d0c2cc201",
+    "bytes": 144177
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_5/log_teste.csv",
+    "sha256": "abce309b380a2835a80e39856c7d5a0e547d62167fb7986ba2d23774f8dc647d",
+    "bytes": 909
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_5/log_validacao.csv",
+    "sha256": "438f3170a4cb833ad9e14705573ef802d0fb7cc1d66d430cfed70a067dddcc6b",
+    "bytes": 968
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_5/teste.csv",
+    "sha256": "6d7939745811d6c99d0c573c6637e04d31d199e78a6baadfc75343bdbc28ef22",
+    "bytes": 88483
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_5/treino.csv",
+    "sha256": "33e04471b7ead3297f9554f0d5519a85cfa984a65552d84a9a467c8fe331c707",
+    "bytes": 299229
+  },
+  {
+    "arquivo": "fontes/entradas/PM25/bases/rodada_5/validacao.csv",
+    "sha256": "43c186316e9ffbb9e3cc804f55306a6e7a41988bad6dc7c0c9744220c655b732",
+    "bytes": 144558
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_1/log_teste.csv",
+    "sha256": "0254fdf01b226709ff3460a5131d8badd1c7ce30dcb079c5192af034963992fb",
+    "bytes": 974
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_1/log_validacao.csv",
+    "sha256": "62d0b3c3067e1743c0015b2dab7f72ef62b19351fbb3d68a399435a909912f92",
+    "bytes": 976
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_1/teste.csv",
+    "sha256": "bfe563be69b976cac1cef622d833c84811ea0a8c3041ffecd0cd6c57694ca998",
+    "bytes": 93424
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_1/treino.csv",
+    "sha256": "afbbb89c0233bd734ee0586cbdb0047c05451d56aef229d8584f70295a18bda1",
+    "bytes": 307219
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_1/validacao.csv",
+    "sha256": "4da806c0de5010f134a14435951af626ef14fdde9b831e7b6ae8fcb036004814",
+    "bytes": 145843
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_2/log_teste.csv",
+    "sha256": "54d0c9b0e64692a98ace3c7f0fb946ce5d36b0389f9c7d59c3d77df6deb744ef",
+    "bytes": 1035
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_2/log_validacao.csv",
+    "sha256": "f82d2251046d7050b1a5aa07c529bce9893ba161d7de498f9ce567d2223ed22c",
+    "bytes": 921
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_2/teste.csv",
+    "sha256": "087fd53b69ef351925f2a1f2878d49feda9020e2b5f71dec2333b6668aa6b29d",
+    "bytes": 93493
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_2/treino.csv",
+    "sha256": "d4bfeddd855db14540d20cbf7f8b230c3e781d986e7659e9bad58d6802ab0b89",
+    "bytes": 300005
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_2/validacao.csv",
+    "sha256": "d07c1b3740244590ef097346309c9ba7f282fd03483767b7acdf78135f44b7dc",
+    "bytes": 147553
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_3/log_teste.csv",
+    "sha256": "582a70f744a65ca1f0604fa798a98dbad6019de564665b799bed60d320915c5b",
+    "bytes": 1094
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_3/log_validacao.csv",
+    "sha256": "bc81beb575409dc5d06e5088ebd83cd6e6e3288ce044475b77a28d4bdf8ec23b",
+    "bytes": 905
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_3/teste.csv",
+    "sha256": "ca12804288a309a81eddd312e6597012a285122cc163befe564567654c8b9404",
+    "bytes": 93895
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_3/treino.csv",
+    "sha256": "f1b0f7ef867b3abd35796bd12559f9e84b41563f3e15e3f7775dbc67f6141aeb",
+    "bytes": 302305
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_3/validacao.csv",
+    "sha256": "b9712954297b35587979cf305c71633f4ae8d3a1c596c8746ca00256d2b82cbc",
+    "bytes": 146587
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_4/log_teste.csv",
+    "sha256": "9f52f5caca108525cfd8c7828ec7859aea88e913f20ebdcc7892aad551f588fa",
+    "bytes": 854
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_4/log_validacao.csv",
+    "sha256": "81806fda9383b1ccf6e7c37e72bf97b8ca0fe0708a36d9ca5e2478176c85ab0e",
+    "bytes": 974
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_4/teste.csv",
+    "sha256": "ff905f88f91568c7face5fdd2da50d300e2e308afcf5b3790a07fa7a9fda1f96",
+    "bytes": 92254
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_4/treino.csv",
+    "sha256": "5376bf1da03b6b26d4ce58ddcbf9b08f3a81f37c6ae984b15b961b7cd65c780c",
+    "bytes": 295133
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_4/validacao.csv",
+    "sha256": "396b6083ca868ca13fd39d3e49a11f660cf24df7d89753b9bd61986282ac2896",
+    "bytes": 145700
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_5/log_teste.csv",
+    "sha256": "aa12f71eb3c8eeedcaf854eac1b26df63d73e729c70b8dcdf3d9d14c0175fa2f",
+    "bytes": 972
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_5/log_validacao.csv",
+    "sha256": "fa991b9e38c22ed83311a855ba3cbf24f592cb58cf29df14c06174c5c42e6855",
+    "bytes": 968
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_5/teste.csv",
+    "sha256": "11b96b7189993f4571dcd19181679e4b4aa3e05cb26c046eddeba69a3cbef0df",
+    "bytes": 92441
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_5/treino.csv",
+    "sha256": "611c45ea68a59b7353db5b73ddaf8aaaf25aafb50cfc52eac6df6a459a6fe2e9",
+    "bytes": 301255
+  },
+  {
+    "arquivo": "fontes/entradas/Temperatura/bases/rodada_5/validacao.csv",
+    "sha256": "0837b1f449a4876bfadbf3655772228d4d572f9ee8551b698a96380dec7b89a1",
+    "bytes": 145751
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_1/log_teste.csv",
+    "sha256": "1b68aac228a38dc9172db624fc7ef9ab926fbbb12e9ba5e5c1a5049203f481d8",
+    "bytes": 1100
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_1/log_validacao.csv",
+    "sha256": "c9ea3fc34547f2138b51ad445661dcadbf5df4c6c8714856eaf8e0ff28012301",
+    "bytes": 1100
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_1/teste.csv",
+    "sha256": "1402d6a13984d55eac6853d5802c23571c0554d684364a5dafc47dfbb8189c3d",
+    "bytes": 96066
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_1/treino.csv",
+    "sha256": "f76bd70af6332dfde4aad4bf2dd8c024c4c622851da09ac7773d61ede35423bf",
+    "bytes": 302701
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_1/validacao.csv",
+    "sha256": "e6eeded49b83aebe6107d5615e5ecc5251ab3add8509e3ce093c2add78854a12",
+    "bytes": 147932
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_2/log_teste.csv",
+    "sha256": "21f4e3fee7ce74192c049b0bb635153a997f1790cc1dbc52b56c367fee5ec9e5",
+    "bytes": 846
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_2/log_validacao.csv",
+    "sha256": "0082e11e9ac237256d6a9b937513c80b52480cdedb4539c5e2ecf011ffaeb461",
+    "bytes": 1027
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_2/teste.csv",
+    "sha256": "c57936d22a3d67148fc4df7625c4f4527dfdf9ce47d59e4fa92774ae2060d630",
+    "bytes": 91529
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_2/treino.csv",
+    "sha256": "e75b1f45dcdce89b146d023b4f3f53300029d283d3f6098426bb7441dde40e78",
+    "bytes": 304946
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_2/validacao.csv",
+    "sha256": "f61e7f409f0deaa05e5282378289a5ecc49c3a6303c437413087fc5d800a9e0f",
+    "bytes": 145572
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_3/log_teste.csv",
+    "sha256": "8d729bf4c3ee2f0ad3d0ff69db3fd73bfd9a5e6be4baae202d976e95930651fc",
+    "bytes": 907
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_3/log_validacao.csv",
+    "sha256": "7db449c326aa3bce134a016457f5a7441fb03be8c9e89102cc7521e2fb2fb5b4",
+    "bytes": 905
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_3/teste.csv",
+    "sha256": "713fb15414e66da9f555aa8f47c57b6083de0f4f0679e613f8b02edea2d53805",
+    "bytes": 90838
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_3/treino.csv",
+    "sha256": "2c6a4c95b003cc7dfd9bc5eebc67e1d9a44383d60351ff612a00586faffbc227",
+    "bytes": 302201
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_3/validacao.csv",
+    "sha256": "8462862d1e4497583c1b89c4caf6d10ebbf2349683d509b88bc12e95a040be04",
+    "bytes": 146732
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_4/log_teste.csv",
+    "sha256": "56ea3cc228f28be4a1e770731ccdb18344e757ce775a888861d523ee758543c5",
+    "bytes": 974
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_4/log_validacao.csv",
+    "sha256": "db26d65bbfd57c03ccd00b80f5f1468c2f35d9452b77d704b6640c040ffe62a4",
+    "bytes": 1035
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_4/teste.csv",
+    "sha256": "f4269d9c8f22e4bc6547eb21a4ce14f347068bc4d2c3634935fc03d0d03a198d",
+    "bytes": 92583
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_4/treino.csv",
+    "sha256": "92ab34533c52c374e0648989b2cc285a9482c3bc3740f68868a919e098fda520",
+    "bytes": 304054
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_4/validacao.csv",
+    "sha256": "af4f14fdf3f161491e54c146aa982c15c2304600eaec651c32093dfb9feb6629",
+    "bytes": 147050
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_5/log_teste.csv",
+    "sha256": "eb4a03cf9619961c7737ff97fec230c5fad91029d0697930c519ca7070c4f0e8",
+    "bytes": 972
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_5/log_validacao.csv",
+    "sha256": "12a48deff26a2e9a55fed6cbb63700dc195285de7947c36d350181eb0d8673ff",
+    "bytes": 915
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_5/teste.csv",
+    "sha256": "30c37bdc97996ee38261953fad5095751674e78bade4b91eb58329ee75b49b4a",
+    "bytes": 92455
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_5/treino.csv",
+    "sha256": "f4a47c3d7bca38f8117b37020db04ae32d13bd0d1f25865f1528acdc991a3582",
+    "bytes": 304357
+  },
+  {
+    "arquivo": "fontes/entradas/Umidade/bases/rodada_5/validacao.csv",
+    "sha256": "ecf928aed7d139c9b4990e19c9d9df404f4f1c7bc91fa51f2694195a4f461aa2",
+    "bytes": 147480
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM10/stuck/entrada_com_injecao.csv",
+    "sha256": "fcad8f0afbd5664d6811c90f4e3aabc53a3090a92276ee95ed770bf1a95fdea7",
+    "bytes": 27682
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM10/stuck/eventos_injetados.csv",
+    "sha256": "44da2dc838b33e6f05558de760efd6c020d0e5505922cdf145c53fe089408a9a",
+    "bytes": 421
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM10/stuck_at_zero/entrada_com_injecao.csv",
+    "sha256": "a3b370a785183bf752d44bbf02eb1876cca26842f27bc0787760ed54d16036fb",
+    "bytes": 27682
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM10/stuck_at_zero/eventos_injetados.csv",
+    "sha256": "ff72334f3bb8383d1717300226576e5f384b38d01bd26f88dbd6e810fcf729d4",
+    "bytes": 503
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM25/stuck/entrada_com_injecao.csv",
+    "sha256": "84160fdbd4ba24a1b5843aa26a0c99edb04608df7f3a75d96011ec459df5333d",
+    "bytes": 27688
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM25/stuck/eventos_injetados.csv",
+    "sha256": "abe5758420d25efee36b2863ed4d403a39096e26dc9374281fd2281c67edb3b8",
+    "bytes": 421
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM25/stuck_at_zero/entrada_com_injecao.csv",
+    "sha256": "be2fe69cc6e454a595c75190f54102fe1c90047db1be974f8c7c76650819a4bb",
+    "bytes": 27688
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/PM25/stuck_at_zero/eventos_injetados.csv",
+    "sha256": "496fa0c4729837d3b243426ac176e6b604f692989e1d98c95527143d16c92e75",
+    "bytes": 502
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Temperatura/stuck/entrada_com_injecao.csv",
+    "sha256": "dba667907e1073fa5111778dc8e988094b998de9f3a716bcb5f6862db1e7d1c7",
+    "bytes": 28766
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Temperatura/stuck/eventos_injetados.csv",
+    "sha256": "372d8c3641f43e0d02f2d910428efa7b1dd5a76f6e6ef87d7871d3fab7768ae0",
+    "bytes": 427
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Temperatura/stuck_at_zero/entrada_com_injecao.csv",
+    "sha256": "12798258b33102a69152623005a3cf2ce843443b1e4c65c995b3b10254c5ecbf",
+    "bytes": 28616
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Temperatura/stuck_at_zero/eventos_injetados.csv",
+    "sha256": "1452c84a988c08788861b7875809b242613156cd6337ee11d71e45db0648dcf8",
+    "bytes": 503
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Umidade/stuck/entrada_com_injecao.csv",
+    "sha256": "753dc437f1f361fd38799569091028041ee47e4e224f87b672c9de77e47cbeaa",
+    "bytes": 28786
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Umidade/stuck/eventos_injetados.csv",
+    "sha256": "19dace7c371340b74fc2674b4c49557afd8a463e5116cc0d9fec2a9d7fba0388",
+    "bytes": 428
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Umidade/stuck_at_zero/entrada_com_injecao.csv",
+    "sha256": "fd8daf8f985f1bcb53cf6b650b89ebadc2c9b4fac754becd865e9e9e366783a0",
+    "bytes": 28589
+  },
+  {
+    "arquivo": "fontes/fluxo/avaliacao_persistencia_integrada/Umidade/stuck_at_zero/eventos_injetados.csv",
+    "sha256": "7317b2be5a86ab31668fd257faf7a98ddb7d65add47cb7dad663617934201125",
+    "bytes": 503
+  },
+  {
+    "arquivo": "fontes/fluxo/configuracoes_fixas.csv",
+    "sha256": "ac401c7accb9fdd74d0dc1779e0a30be72d104c8fb4af0bd45f94e11ec424015",
+    "bytes": 1027
+  },
+  {
+    "arquivo": "fontes/fluxo/dados_ordenados.csv",
+    "sha256": "831b70f0f337538e9b175c22591a9e7742d8cc4382e04297ddc099b7630d17dc",
+    "bytes": 2799238
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_oscilacao_1.joblib",
+    "sha256": "08ef5462f18701c0ec3538842c4566e8c2fb04eb8bce42770c394a8939dafb61",
+    "bytes": 107795
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_oscilacao_2.joblib",
+    "sha256": "07909e449c436e2e03e1f50a327ea56ca1981d5f9d9647f38acfddae4210caa0",
+    "bytes": 83002
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_oscilacao_3.joblib",
+    "sha256": "4c8737b87c205461d5edef6a2399dc21b2622aae7eaced7148ff1b39e3861a96",
+    "bytes": 87310
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_oscilacao_4.joblib",
+    "sha256": "69e16480ef178d117c93c65e575fd7a1b364aa2b0aa73a26e0c4c3c465eba851",
+    "bytes": 86959
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_oscilacao_5.joblib",
+    "sha256": "8104bab7bcf6adf2ba7d7b1dc4798320987ca5d8f116db92ba5c6a344fb9fac0",
+    "bytes": 107965
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_queda_1.joblib",
+    "sha256": "ce0e38ccc43a0c59cdbebf425818d8f3ef0e979970615a1a00adf0c6014b87c2",
+    "bytes": 112560
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_queda_2.joblib",
+    "sha256": "fe856d29c531476e2f39ae0df697fe8e1d16ed84590517f16ddaeb13f0c9f03b",
+    "bytes": 112447
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_queda_3.joblib",
+    "sha256": "538c18341b267e814163dbbfdb0152289758727f3b827ab6afebd4606d50d751",
+    "bytes": 89516
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_queda_4.joblib",
+    "sha256": "9a479143ab6f02d9804e3f74afbdd5e826a7d5ad3d0a0664395074f274db8310",
+    "bytes": 129151
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/catboost_queda_5.joblib",
+    "sha256": "6807ef5b7ba0936a311e05f04183a081fe1c5a297c6a775335b5a0da248e13bd",
+    "bytes": 99737
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_oscilacao_1.joblib",
+    "sha256": "de1028c558b075c7e0c828210689e79aca07647761ea0a27396956d02bfd1f63",
+    "bytes": 298573
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_oscilacao_2.joblib",
+    "sha256": "a3a3e49ee3520049faa6a55265804194ae3e1a42961f72e0423ec08b908f2c3d",
+    "bytes": 298563
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_oscilacao_3.joblib",
+    "sha256": "367365605359ec45a1ee0cc0635eb155347f3f6e9b296a851f6013636cb6c32a",
+    "bytes": 298837
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_oscilacao_4.joblib",
+    "sha256": "e328b14420ee54eb9c6860480257a2484fa16b6f756e1edec4a283385bc1b204",
+    "bytes": 297998
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_oscilacao_5.joblib",
+    "sha256": "b9d05b049eea85559e7acacc7b551060bd8d3ec21b5b1e2d9219b92a7a301850",
+    "bytes": 298473
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_queda_1.joblib",
+    "sha256": "3e5ea88d8570818800dbb908648dd3e9e8d26af741ff7f8350b1f2240ca6cd7c",
+    "bytes": 279154
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_queda_2.joblib",
+    "sha256": "99105795438e506eb92f5dedad0263160c83042d05cf86c4b233a1366c90d3d7",
+    "bytes": 279007
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_queda_3.joblib",
+    "sha256": "c6ed291d1cf89ca0bbd3e693ce7ca329950f8d846b3ee96c096120d68338fc34",
+    "bytes": 279002
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_queda_4.joblib",
+    "sha256": "29c085dce4ab55e6527241d70dcc1a99a331dec4e1a71b2c1bc6630ba9013eea",
+    "bytes": 278968
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/mlp_queda_5.joblib",
+    "sha256": "c1149d8d52fb7f73cd26bdbf944739f807f615b1402b3e6c37e77dd6fb6972cb",
+    "bytes": 279035
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_oscilacao_1.joblib",
+    "sha256": "c62f23098be2d516eb627e0190742a99723287187acade1fcea3959f4c57b2b6",
+    "bytes": 76819
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_oscilacao_2.joblib",
+    "sha256": "d3e91e40f68e35a347e43f5baeb40d30f34785885d62fb6ddd056c1359702172",
+    "bytes": 78167
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_oscilacao_3.joblib",
+    "sha256": "5c6b2969856c29294f4502735917b9f444e6feafd3fef2644e054118ea9a8d59",
+    "bytes": 82735
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_oscilacao_4.joblib",
+    "sha256": "396b85eb0aa22851c3e3aae06b858cabb5a448bed32e99f9eb3a0ed57dd6ee1a",
+    "bytes": 77620
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_queda_1.joblib",
+    "sha256": "21afbb4f86f61c65972bebcca915e9af5a831399bbb109bc60a60a162ad94dd6",
+    "bytes": 54098
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_queda_2.joblib",
+    "sha256": "6fba3f66465ba86cf47ab1f7cc7e9454d5eb237ec4c5df6e7182039c3b488bfa",
+    "bytes": 57858
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_queda_3.joblib",
+    "sha256": "05a4410554d0e85fa95a542d1e93eb0d5cd1cd00838841774bf22e55dc10fd5e",
+    "bytes": 62621
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_queda_4.joblib",
+    "sha256": "12ccec0ecf12854de08cb050c1f6d5da727083dc845758bfcd2020ea6ee0c52c",
+    "bytes": 51247
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/random_forest_queda_5.joblib",
+    "sha256": "87b8964a9d99584dec3667f81b87b5b48a66086e033483e73290d31dfff85294",
+    "bytes": 51391
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_oscilacao_1.joblib",
+    "sha256": "b74530da7452a933fc8422e643b1b203d66f6905f47a2d488402a8161fc0f524",
+    "bytes": 23090
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_oscilacao_2.joblib",
+    "sha256": "472a8c13e37ba1daeadb3b4533bb39f49c354c0086fbe5b8ee916ebef63c9ec9",
+    "bytes": 23987
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_oscilacao_3.joblib",
+    "sha256": "b80b053a7dcda1cd81a88b364ec4f813f10ac39c68e873207a06a79e15a30701",
+    "bytes": 23845
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_oscilacao_4.joblib",
+    "sha256": "8e97fa01ef3e86e1c41701f9cba33cf0cca453c413b0bbb2a8b0dbe0a454d997",
+    "bytes": 22325
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_oscilacao_5.joblib",
+    "sha256": "ab17fb3e598e74a5428238a0e2592b494aa9ab26e933338a1758de247b176e8d",
+    "bytes": 23359
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_queda_1.joblib",
+    "sha256": "ee39a04d2f4497a7aa8686f377916e2bdfa9c0dcfc7a4824e30499563182a4fe",
+    "bytes": 20833
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_queda_2.joblib",
+    "sha256": "91ebea642702131d69b7169c40defd45dca6272a39d1430376e3c787c3965b84",
+    "bytes": 21811
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_queda_3.joblib",
+    "sha256": "619fb5f0c1f6f12df8b45440f727ab7f63954081da8f5650a69db82da0c2be79",
+    "bytes": 23847
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_queda_4.joblib",
+    "sha256": "08b4734ea48d1d18d026dbf8cfb87213509e98b28180881ae8e792599f600a64",
+    "bytes": 20188
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM10/modelos/xgboost_queda_5.joblib",
+    "sha256": "290906a0afc2012c0f3658478b17c7bfd54166d25eea87412d52e43478379a85",
+    "bytes": 21172
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_oscilacao_1.joblib",
+    "sha256": "b21cd7d68006d663f2352e1399fca04f38e01ced62c1ba976be75e89bae42552",
+    "bytes": 92019
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_oscilacao_2.joblib",
+    "sha256": "bc47feb8c45884ae3305bfdc06258cf1968f343645af65fe9473cc52b1db1411",
+    "bytes": 97901
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_oscilacao_3.joblib",
+    "sha256": "e5af1480e04656c3585ffd4372aee474cde7095f87006fcfb79318b44fd43b77",
+    "bytes": 86139
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_oscilacao_4.joblib",
+    "sha256": "e6ae9d7b92de32ea5f595d5cc7dc32bbaebfb5ab08f95f5cd267dccc83c17391",
+    "bytes": 100231
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_oscilacao_5.joblib",
+    "sha256": "80566d91f715b7ce80553f0fe1fdc1afd8fd1f53940f7f7dcf6a6856b7e65775",
+    "bytes": 95534
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_queda_1.joblib",
+    "sha256": "916166c3fa8fa35badd727c7ea182ad5f31c9a89f7b6aca08beb30b9d5e53d1b",
+    "bytes": 148937
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_queda_2.joblib",
+    "sha256": "0836293d2cd07740c61ae79b0dc889566b2f514003c83b0a23be3e531f425a0d",
+    "bytes": 151580
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_queda_3.joblib",
+    "sha256": "ad2c750c0d4cdf938ebbda8299c471a0ad826cfd2474fc7077104346a64bfe15",
+    "bytes": 127276
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_queda_4.joblib",
+    "sha256": "1384534869e80642b2563bc29048bb2d49a407d18a8d621ade772101a4cc72c2",
+    "bytes": 122319
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/catboost_queda_5.joblib",
+    "sha256": "d9b38383aa22ba44d5d44b603746332525386dd39271ec245b512720b15143e9",
+    "bytes": 167271
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_oscilacao_1.joblib",
+    "sha256": "ac0a0ababcc2d421113cfe0e3c4ba573b7ea402373aa7c770b3b64226804f023",
+    "bytes": 318486
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_oscilacao_2.joblib",
+    "sha256": "ca3416c5d219a60dd3bdaebd9d03ade92b8d28e5e63b5cdf66c5631aa05027ad",
+    "bytes": 319134
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_oscilacao_3.joblib",
+    "sha256": "5858e75838d39ccc0955f9168076d3229c5e606bfd9735faa6c20dca7f892fef",
+    "bytes": 319681
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_oscilacao_4.joblib",
+    "sha256": "5b34193cf3cf0fdec563070275b6e19bfc5573f34de1ad7c19bfad6c0f7526ce",
+    "bytes": 319153
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_oscilacao_5.joblib",
+    "sha256": "51a1cdbc152b203e1606cdf367c0e1043feb9e8d04879e49fece8f542fe44dd7",
+    "bytes": 318610
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_queda_1.joblib",
+    "sha256": "5fce2b2a0d6490bb3a9584d63b0f4bad2f561f937a3915669cbbade00fcb946b",
+    "bytes": 298585
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_queda_2.joblib",
+    "sha256": "72039372c9629ba4650099e512fdf1303265fc5c86498537a8581e4781711df1",
+    "bytes": 298946
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_queda_3.joblib",
+    "sha256": "a4eec48dc264f11099677f6cdefa1ecaad16fe00a08213710b9df14024eaaf2e",
+    "bytes": 299758
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_queda_4.joblib",
+    "sha256": "86e2e51b6d57a9950e1926df80590f0aa66359940f3e87ae6160905ce6c5e847",
+    "bytes": 299159
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/mlp_queda_5.joblib",
+    "sha256": "93aab8034f1f6893d3194ffcb3896aaa1eee9ef501104ced75de62343533cf94",
+    "bytes": 299549
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_oscilacao_1.joblib",
+    "sha256": "81b75f4e53b73a4b5f939b676d1c4eba3e9bb568a4bd975131445376466ae3ac",
+    "bytes": 86790
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_oscilacao_2.joblib",
+    "sha256": "17b38a8957750fd8e6fc438c72d855925b56c4f37e6468d1ed902965761ac24c",
+    "bytes": 103683
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_oscilacao_3.joblib",
+    "sha256": "dbeb8339670f30d33bf7a72890cfcc403446fb4aa8cb500b52cf85dae0500b43",
+    "bytes": 75532
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_oscilacao_4.joblib",
+    "sha256": "f6ed5f128b7892ba71cd6d54d0ff8cd2ec4c01be1e49aa9a697b7b89e2713fc2",
+    "bytes": 100553
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_oscilacao_5.joblib",
+    "sha256": "c297a2f77e4eb46ca61344eba443dec95a282d8b91d14c80465ba2180dacb5e4",
+    "bytes": 93047
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_queda_1.joblib",
+    "sha256": "8b33cf193cc8406bb56f6a7cc72c00ccb3b02ba49da47a7396806beb3cee72d6",
+    "bytes": 630523
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_queda_2.joblib",
+    "sha256": "4037784b86fe1f3ae69ed898fb1f816c9c26875ed6edfd5a69cb1cc95bd1284e",
+    "bytes": 550018
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_queda_3.joblib",
+    "sha256": "cfce08f35188c6d385bea4c2a0d4556ef858415bb6f28d7b2348f034a613df93",
+    "bytes": 640865
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_queda_4.joblib",
+    "sha256": "fa33883f16232195bea0a849eb53559eefd42fb431d3d3bc722661c4746eab80",
+    "bytes": 551078
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/random_forest_queda_5.joblib",
+    "sha256": "6218fe024cc2595d2bcc34e1fc4743a918ee26eab990949523ebb935d159ed84",
+    "bytes": 734870
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_oscilacao_1.joblib",
+    "sha256": "917a41afee68deed2e70316a860b07b042632b1ae9d0ee332838bbc110943917",
+    "bytes": 29228
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_oscilacao_2.joblib",
+    "sha256": "e05230367c5a0bd97e0c6d1a5e2883bacb67494c49d42861e5bc30551d7f0881",
+    "bytes": 36927
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_oscilacao_3.joblib",
+    "sha256": "344ae047f1f985eef728ef5f09b74dc7f2648b12e9abb5f70a57a710f24f78c3",
+    "bytes": 30016
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_oscilacao_4.joblib",
+    "sha256": "17499d122cf864aee05970a314cecd9a7b43e926324af728afa1261e47987214",
+    "bytes": 33764
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_oscilacao_5.joblib",
+    "sha256": "1ff1c0625eeb4891f67fd50b2641cef0880a54ea8e27196146543d4a89d0c9a2",
+    "bytes": 35570
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_queda_1.joblib",
+    "sha256": "7a846f7623d26fcc5fd998a9cefdea4c63b36ebd1e61c47ea6bd502aa8a28abf",
+    "bytes": 21222
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_queda_2.joblib",
+    "sha256": "a7ffe0b59e8807eb51bd1569aae89be10631111db6530e7a00d36b3a6a4c0a65",
+    "bytes": 24408
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_queda_3.joblib",
+    "sha256": "704adc85277a78af03cb265140c24e06bd65700ee622765d1093381296c59ec7",
+    "bytes": 30570
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_queda_4.joblib",
+    "sha256": "16247a1c1183a2c08234c3dbb81232746d420dbd130ce278a16a6c5c70c186cf",
+    "bytes": 25880
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/PM25/modelos/xgboost_queda_5.joblib",
+    "sha256": "01f27e333ea5ec67990f765c45e192570c80f4a616ed252d937036c577e0a854",
+    "bytes": 31855
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_oscilacao_1.joblib",
+    "sha256": "6bcaf3bca265a3624272a50b92416c01439d8368884a014277461c5d2579e09f",
+    "bytes": 86457
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_oscilacao_2.joblib",
+    "sha256": "d4b63ec2de42d08cda453593d4a0a3d2e1fc2432918a9e6ab0e45d08c44b56ae",
+    "bytes": 75759
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_oscilacao_3.joblib",
+    "sha256": "bc1c24ee994104c3823e8c59d42b91a36fcc336e79542cd6233741855599d39f",
+    "bytes": 80378
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_oscilacao_4.joblib",
+    "sha256": "ec00d9fe29c1a394b8967436ad25197fc0fbb07f61f46705a0979e0f752e8268",
+    "bytes": 90165
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_oscilacao_5.joblib",
+    "sha256": "f69d9bf9501f84109c3923fb2148e281e80e912347ad66bbe055d90965c3b596",
+    "bytes": 81595
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_queda_1.joblib",
+    "sha256": "56bdeb0fcb752698c23ba4bf6c8e759b8c381d36e8ced472eb4cb72068b56d96",
+    "bytes": 114566
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_queda_2.joblib",
+    "sha256": "184a0af60e03bcda32bf3871fc1da4515fede1f88b378422d711b099c37a5642",
+    "bytes": 115983
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_queda_3.joblib",
+    "sha256": "9f208f42f605e5e48e7ca5fddb2cffdd68e9b27bfbd0ea73abd3df66643bb160",
+    "bytes": 99652
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_queda_4.joblib",
+    "sha256": "681a1c5af94b8b66cb702a5b24bcbb17843474cc48b30ebfcfa172790e4226e9",
+    "bytes": 121424
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/catboost_queda_5.joblib",
+    "sha256": "3c4d994b3155342ffa2a43aa9f6c9bec180058ba1eb5c295e0c2c5806768709c",
+    "bytes": 100319
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_oscilacao_1.joblib",
+    "sha256": "ca4b4a9ed012113bf228a08e3a3ecdeee85dde8ff002dfb57eb33ffeeef4cf2b",
+    "bytes": 317468
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_oscilacao_2.joblib",
+    "sha256": "ccd9fac07fd283b03b5735062cc8e735a2448c327ef9f0515834351430ddeb2c",
+    "bytes": 317120
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_oscilacao_3.joblib",
+    "sha256": "7cfe6ddafd8c9d5b1b6b923ae1ab1629f6af9ca7fc74b00c5fbba0eed80b6cbc",
+    "bytes": 316989
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_oscilacao_4.joblib",
+    "sha256": "d5e1de0878127dee62694bf4057adfd0a26dbc31cbf45a70accc64d90c2b5bde",
+    "bytes": 316928
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_oscilacao_5.joblib",
+    "sha256": "8a64902c959ff6d3088184d64c3f09c2b0fb3aad936e101498747d9ac6a1b983",
+    "bytes": 318262
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_queda_1.joblib",
+    "sha256": "0f06dd263add2cd4195b33f5fd10e01edca6a37feb627543ae8bd67dd96ed1b3",
+    "bytes": 323443
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_queda_2.joblib",
+    "sha256": "f7535be39938a09e3f787c6188cffa6404679a24a3d771ef1d3371836712aa83",
+    "bytes": 323581
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_queda_3.joblib",
+    "sha256": "910c75f6b8fef71bb9196a0700e227df4a485b43d33417b2b5236806015b23b2",
+    "bytes": 322790
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_queda_4.joblib",
+    "sha256": "bfda2d874e340dd442b5444baa23a63d011b3ea7db35a7c9c52698faf328a70f",
+    "bytes": 323182
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/mlp_queda_5.joblib",
+    "sha256": "744e098de6bf1b09f979672201fb7e94531b5b53c5c1f70219a5ff0cbc7dd7da",
+    "bytes": 321712
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_oscilacao_1.joblib",
+    "sha256": "417731ca6dd712eb753e4c2df3f3fb97bbe98c1be71d7f87d3b32cf2a83413d6",
+    "bytes": 280739
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_oscilacao_2.joblib",
+    "sha256": "3a4c8e4b5abb573df581a99140f0f4986713ca93ddc7cc39d6680544d2ba44ea",
+    "bytes": 336645
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_oscilacao_3.joblib",
+    "sha256": "87cec6e92c9474753d3d462730ca8c4e3909842e1aeb817e70bbf250a1b024dd",
+    "bytes": 359389
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_oscilacao_4.joblib",
+    "sha256": "f9a6652bddba51f67305715a42ececf587a9355ebf9c4e188a5d486691611f39",
+    "bytes": 391630
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_oscilacao_5.joblib",
+    "sha256": "0a47b95d9b1283fd13d7b8cf694f35de93d2940fa202bbfda901f45a42a20d77",
+    "bytes": 329472
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_queda_1.joblib",
+    "sha256": "aa615f508d5a11ea04f8032a86afa59ddfc42e98e0de7cb17519cb1d26a33ae2",
+    "bytes": 106250
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_queda_2.joblib",
+    "sha256": "ab179d73e84c0f6f371fd06f78640a53f4062522e5c29094c9a9e5291665f3b5",
+    "bytes": 85256
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_queda_3.joblib",
+    "sha256": "2c5833c07b1c488a9dd3831ee8b03f5a8d20a1757cabf27eed181a75cf1d701c",
+    "bytes": 92177
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_queda_4.joblib",
+    "sha256": "95a8c4106361341d037fb6dfb13d133ce112e89311a257d7608ff7c015a447ae",
+    "bytes": 98120
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/random_forest_queda_5.joblib",
+    "sha256": "d99ac9833c2e2544cbcdf99183145ce159a495af8257e8da3f5d96ae1be8b55f",
+    "bytes": 107090
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_oscilacao_1.joblib",
+    "sha256": "f8807563866c8356f21f1a5d4b251cf220871da47548544cef9b56af82d7c402",
+    "bytes": 24015
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_oscilacao_2.joblib",
+    "sha256": "2e6e63e62396cae8f3319219ade1ddc9065b0095ae0d903922efa8a4ee63c22b",
+    "bytes": 25351
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_oscilacao_3.joblib",
+    "sha256": "646917000d02a562345ee3512330f9a46286c82b05d58f3d90e30ed2814c1dc4",
+    "bytes": 23918
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_oscilacao_4.joblib",
+    "sha256": "c6fbe3b00f6e31e5fc5ebfca6d84976c3fd8bb771605253adaebc0857e7d4c4f",
+    "bytes": 30270
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_oscilacao_5.joblib",
+    "sha256": "8bd7e3d76e07d264a44dd61492d7e7b582405c79f288130a859040ad17f5f867",
+    "bytes": 26629
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_queda_1.joblib",
+    "sha256": "56436935b2fb66b48a72a7711cbd94d31539dabf934a2896bb3e992446a6325b",
+    "bytes": 35559
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_queda_2.joblib",
+    "sha256": "9c4bfec1d778699a358c008faec37d79fc01a832088770263a8674c4e1e1d747",
+    "bytes": 34272
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_queda_3.joblib",
+    "sha256": "3d0a2ca794d771819b5ff7dca995112e8ac19e2072cbb7ca16b7700b7fa6f28f",
+    "bytes": 32369
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_queda_4.joblib",
+    "sha256": "f3a8e43a196549238a027da101014cd11ea39d21fa0d7f240766bb1fdab845b5",
+    "bytes": 39894
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_arquivados/Temperatura/modelos/xgboost_queda_5.joblib",
+    "sha256": "7808ac18fb86c5baa3b36547bc23b9c70fe8b9e26c505177af12dd8dd77d9f93",
+    "bytes": 42215
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/PM10/modelos/random_forest_oscilacao_5.joblib",
+    "sha256": "cf2535a36d619f28f347c50ae560fc405a1dd17f9cb9a7795e018eddf1ad5b1a",
+    "bytes": 82216
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_oscilacao_1.joblib",
+    "sha256": "4a0f7e7cd092f5243ceeb09a700167fbd2ec5b8672d9624bd0107b382874f77d",
+    "bytes": 95598
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_oscilacao_2.joblib",
+    "sha256": "aa0831a0a8e0113ca37814a98d330abc82e7e3a3ce712c7954112d61ed331c75",
+    "bytes": 91131
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_oscilacao_3.joblib",
+    "sha256": "fe6331c416591e8c10776e32b685bfa5b28574197180d7bd59f2cc910ee3b56d",
+    "bytes": 102383
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_oscilacao_4.joblib",
+    "sha256": "cac71674c0fa4714cb7610bd16f99869960f96386e1cb85857e0f15f3609931b",
+    "bytes": 126966
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_oscilacao_5.joblib",
+    "sha256": "1404603864b0221110f8185daf26ab5931ccb29cfa913ddf16ec87dc1a94d00b",
+    "bytes": 105321
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_queda_1.joblib",
+    "sha256": "931e10349b6ad86258aa7c63219b41ff8fa4065e0175e4e4a454c659f823dcf2",
+    "bytes": 90998
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_queda_2.joblib",
+    "sha256": "f63d5475a6e50226060a7ba0b0eb249078e080f04a40ee8ad232820cfcc4c573",
+    "bytes": 73834
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_queda_3.joblib",
+    "sha256": "b857d28f8570059d4808479d6b16f04f71fdd4da725c312b0753b95d68d7aef2",
+    "bytes": 71583
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_queda_4.joblib",
+    "sha256": "fc76394acc6032a973913cf9d1b615de74c9b1b5894cc4e3d07b15cca83d3c12",
+    "bytes": 88226
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/catboost_queda_5.joblib",
+    "sha256": "1a242e0fbc7ee5c0fa2935ed71cc2a93f4019c366e23184aeb39d2cc80cdf830",
+    "bytes": 69491
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_oscilacao_1.joblib",
+    "sha256": "78586105c69e91ef06ae9e96c26f477e309d0858631376f9490bf9ea11f71cac",
+    "bytes": 301333
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_oscilacao_2.joblib",
+    "sha256": "950b556eff53e06173782804a6a740cecb90096efad95431f271243aafe2afcd",
+    "bytes": 301047
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_oscilacao_3.joblib",
+    "sha256": "2401405362245d0e327ed14073833fa98dfb3e264762cbdccfe70161cd47de9a",
+    "bytes": 299906
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_oscilacao_4.joblib",
+    "sha256": "bbca1d51410c98bef6debcf412204072337adc24ea0f2877a319333ad221ff8f",
+    "bytes": 302793
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_oscilacao_5.joblib",
+    "sha256": "acf38023be4c0a4035c1573639f9c391d0315e5508b29a39b01638c401e1b555",
+    "bytes": 300880
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_queda_1.joblib",
+    "sha256": "a2db6c9718647fd43a96ecdf3e105d6436c93bd72e16e5ea9dc07305c2f2ed63",
+    "bytes": 321616
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_queda_2.joblib",
+    "sha256": "490f284cf6844dd13106b10bafff46d66ce2b8c9492ad9166440049c820295dc",
+    "bytes": 319721
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_queda_3.joblib",
+    "sha256": "edcc9a1ede79981f63bdf910df69f4ce58beefe1554f62e280dc428594ac02f1",
+    "bytes": 322375
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_queda_4.joblib",
+    "sha256": "62b02ae5f6b0d98b32fb0082bef705a6a4d3b9ddf8fd84f1566d26875bb75c66",
+    "bytes": 320547
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/mlp_queda_5.joblib",
+    "sha256": "8b143419fdb99f194fdc083dc9863b9ea7b4ac0ce1994f9bea6a1e0f1bbcb848",
+    "bytes": 319844
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_oscilacao_1.joblib",
+    "sha256": "a7c3484298be85cdcbe9d2bb41ecb3f68397ba35f1e1b949c7470b31d26071c8",
+    "bytes": 139235
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_oscilacao_2.joblib",
+    "sha256": "646328cb3cdb331ca8daf116fabc1ec86191af5596b1d5acd425c3c4fc250e7b",
+    "bytes": 154632
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_oscilacao_3.joblib",
+    "sha256": "2ae912a98ddbbe3a04d997eecb5620b17295e736ee8efeb7530ae5f3efca3b18",
+    "bytes": 134429
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_oscilacao_4.joblib",
+    "sha256": "6a4f7083f455209da579e318141d52d09c5b82e752232b6e73c2493ff73a47af",
+    "bytes": 144699
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_oscilacao_5.joblib",
+    "sha256": "7848f10dcd0b165285b43f37670e0325087f5dd493c6393c36d3d3cbd3964a2b",
+    "bytes": 154468
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_queda_1.joblib",
+    "sha256": "616add36bb263c5a040f4a08f5a62dd0ed132e52df11456e3ff0fe541c4cf4d4",
+    "bytes": 65915
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_queda_2.joblib",
+    "sha256": "d4d6772777143bb50f8e6cfa52d95a842de809f3eb36c0a1620bb727f229404f",
+    "bytes": 55430
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_queda_3.joblib",
+    "sha256": "9a55b14c9a320b6bc6a37787e8097e0080d92d0c6992b3b384f5b36ba7c6caa7",
+    "bytes": 66523
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_queda_4.joblib",
+    "sha256": "b048ef59ffa7b32ef855f286fb85be39367aca620ea171920c52e9050cbcd842",
+    "bytes": 69230
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/random_forest_queda_5.joblib",
+    "sha256": "3908c36f681bb75b218b8fe93c31cf36c5c46da589d1f7c29358c8770491dc18",
+    "bytes": 65364
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_oscilacao_1.joblib",
+    "sha256": "2235283fcf5c3cdcdef4f3db9114b36cce3ebe578f9c01ff584c2dc25aa7f960",
+    "bytes": 91507
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_oscilacao_2.joblib",
+    "sha256": "2b72f443e872912d209bdefc65f21f45a22feab4c36638d8efb1a8329c2921f7",
+    "bytes": 114886
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_oscilacao_3.joblib",
+    "sha256": "bfb1e120cb3c56c1b1a1489724209dd46dcd153eb4eab0df94b09a7ec15cc1cf",
+    "bytes": 110850
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_oscilacao_4.joblib",
+    "sha256": "cc94880c35a4ad9d2dc2bd5fcd03b4fdc13f26db68704ae5e8399ffd49dc8797",
+    "bytes": 106279
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_oscilacao_5.joblib",
+    "sha256": "d276f3d3582b560532f9bd2f1d2d42f92f31d2a26fe1d5e66be6574616521f64",
+    "bytes": 97932
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_queda_1.joblib",
+    "sha256": "5cef5e8249d51c9e78eacd66f99ae1f1efdf8822b16828ec92d9a187d15a4e3e",
+    "bytes": 28301
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_queda_2.joblib",
+    "sha256": "2426d5a06a81c155c148e7741cdfa6e2f69668d538422588a1f08c261f892ee7",
+    "bytes": 22776
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_queda_3.joblib",
+    "sha256": "05a903ac4a45a7992b8b9bc9685a70498f8c4cdcebc539a46514b1df34a38585",
+    "bytes": 28680
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_queda_4.joblib",
+    "sha256": "17e2856fd291ecc4c2666ab2f3f3189f555975ab73d422b91a8bb283f6220f21",
+    "bytes": 27505
+  },
+  {
+    "arquivo": "fontes/fluxo/modelos_reconstruidos/Umidade/modelos/xgboost_queda_5.joblib",
+    "sha256": "1864ee9bccf41a8ad18f1dbbc03fe3196dde29c1d14b94cda17431aa56266ce0",
+    "bytes": 28048
+  },
+  {
+    "arquivo": "fontes/fluxo/src/ajustes.py",
+    "sha256": "40c96131b282bcfe94f537bb73910ae2b9cc68b40592bb7c4082cac308e8ae39",
+    "bytes": 8339
+  },
+  {
+    "arquivo": "fontes/fluxo/src/executar_integrado.py",
+    "sha256": "6be160d0289526cdd36b757ba6434e915df7fda6176dd18382f1e2d5f10d033c",
+    "bytes": 11666
+  },
+  {
+    "arquivo": "fontes/fluxo/src/ml_pipeline.py",
+    "sha256": "82e289ab73fef8dc9e8774daa30499a9629f50d3cc680786ff025dff26ce8f52",
+    "bytes": 7314
+  },
+  {
+    "arquivo": "fontes/fluxo/src/regras_deterministicas.py",
+    "sha256": "d82e9610d0cc79c55667dad5297e8f1706a239e4f407a684454e0052883af8b7",
+    "bytes": 18950
+  }
+]

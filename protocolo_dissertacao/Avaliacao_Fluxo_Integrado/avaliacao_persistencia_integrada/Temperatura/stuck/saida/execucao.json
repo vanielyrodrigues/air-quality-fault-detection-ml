@@ -1,0 +1,104 @@
+{
+  "tipo": "demonstracao_retrospectiva_integrada",
+  "injeção": false,
+  "inicio": "2023-11-02 09:30:00",
+  "fim": "2023-11-09 00:00:00",
+  "rodada": 1,
+  "regras_sobre": {
+    "lacuna": "grade_sem_interpolacao",
+    "persistencia": "serie_preparada"
+  },
+  "estrategia": "multiplas_categorias_sem_prioridade",
+  "observacao": "Janelas positivas não equivalem a eventos distintos. Nenhum diagnóstico físico é atribuído.",
+  "dados_sha256": "dba667907e1073fa5111778dc8e988094b998de9f3a716bcb5f6862db1e7d1c7",
+  "modelos": [
+    {
+      "variavel": "Temperatura",
+      "modelo": "catboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 85,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/catboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "6bcaf3bca265a3624272a50b92416c01439d8368884a014277461c5d2579e09f"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "mlp",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 10,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/mlp_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "ca4b4a9ed012113bf228a08e3a3ecdeee85dde8ff002dfb57eb33ffeeef4cf2b"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "random_forest",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 15,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/random_forest_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "417731ca6dd712eb753e4c2df3f3fb97bbe98c1be71d7f87d3b32cf2a83413d6"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "xgboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 100,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/xgboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "f8807563866c8356f21f1a5d4b251cf220871da47548544cef9b56af82d7c402"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "catboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 30,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/catboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "56bdeb0fcb752698c23ba4bf6c8e759b8c381d36e8ced472eb4cb72068b56d96"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "mlp",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 45,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/mlp_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "0f06dd263add2cd4195b33f5fd10e01edca6a37feb627543ae8bd67dd96ed1b3"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "random_forest",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 65,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/random_forest_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "aa615f508d5a11ea04f8032a86afa59ddfc42e98e0de7cb17519cb1d26a33ae2"
+    },
+    {
+      "variavel": "Temperatura",
+      "modelo": "xgboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 55,
+      "origem": "integracao_hibrida_20261026/artefatos/Temperatura/modelos/xgboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "56436935b2fb66b48a72a7711cbd94d31539dabf934a2896bb3e992446a6325b"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+variavel,categoria,metodo,modelo,unidade,quantidade
+PM10,oscilacao,classificador,xgboost,janela,5
+PM10,queda,classificador,catboost,janela,13
+PM10,queda,classificador,mlp,janela,12
+PM10,queda,classificador,random_forest,janela,6
+PM10,queda,classificador,xgboost,janela,13
+PM10,stuck,regra,,intervalo_regra,5
+PM10,stuck_at_zero,regra,,intervalo_regra,5

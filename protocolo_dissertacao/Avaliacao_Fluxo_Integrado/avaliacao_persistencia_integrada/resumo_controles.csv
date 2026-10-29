@@ -1,0 +1,9 @@
+variavel,categoria,injetados,cobertos,nao_cobertos,seed
+PM25,stuck,5,5,0,20261026
+PM25,stuck_at_zero,5,5,0,20261027
+PM10,stuck,5,5,0,20261126
+PM10,stuck_at_zero,5,5,0,20261127
+Temperatura,stuck,5,5,0,20261226
+Temperatura,stuck_at_zero,5,5,0,20261227
+Umidade,stuck,5,5,0,20261326
+Umidade,stuck_at_zero,5,5,0,20261327
