@@ -1,0 +1,10 @@
+variavel,categoria,metodo,modelo,unidade,quantidade
+Temperatura,oscilacao,classificador,catboost,janela,5
+Temperatura,oscilacao,classificador,mlp,janela,34
+Temperatura,oscilacao,classificador,random_forest,janela,50
+Temperatura,oscilacao,classificador,xgboost,janela,6
+Temperatura,queda,classificador,catboost,janela,21
+Temperatura,queda,classificador,mlp,janela,16
+Temperatura,queda,classificador,random_forest,janela,6
+Temperatura,queda,classificador,xgboost,janela,14
+Temperatura,stuck,regra,,intervalo_regra,5

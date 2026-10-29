@@ -1,0 +1,5 @@
+7 testes unitários aprovados.
+80 grupos de predições (4 variáveis × 2 categorias × 5 rodadas × 2 partições), sem votos ausentes.
+Contagens por evento conferidas contra as 80 linhas de resultados do teste.
+Atrasos não negativos.
+Grade sem injeção: 951 posições por variável, incluindo duas posições finais ausentes no arquivo de origem.

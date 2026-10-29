@@ -1,0 +1,70 @@
+% Avaliação complementar: confirmar a posição e a numeração no documento final.
+\subsection{Avaliação complementar da decisão integrada}
+\label{sec:avaliacao_integracao_sincronizada}
+
+Os quatro classificadores foram reaplicados em horários comuns,
+a cada dez minutos, mantendo os modelos treinados e seus tamanhos
+de janela. Nesta avaliação complementar, o avanço de inferência
+foi de uma leitura. Foram comparados de um a quatro votos e de
+uma a três decisões positivas consecutivas. O critério de cada
+tarefa foi escolhido somente na validação das cinco rodadas,
+priorizando cobertura de pelo menos 90\% dos eventos e, entre
+as alternativas elegíveis, maior F1 médio por instante. Quando
+nenhuma alternativa atingiu essa cobertura, foi priorizada a
+maior cobertura disponível.
+
+A sinalização começou no instante da confirmação, sem preencher
+retroativamente a janela. Cada evento foi contado uma única vez
+quando houve uma decisão positiva durante seu intervalo. As
+primeiras posições, sem janela completa para todos os modelos,
+foram registradas como indisponíveis para essa comparação. O
+período de teste já havia sido examinado em análises anteriores;
+por isso, esta reavaliação tem caráter exploratório. A preparação
+com interpolação foi mantida e não permite comprovar operação
+causal em tempo real.
+
+\begin{table}[H]
+\centering
+\caption[Comparação complementar da decisão integrada]
+{Comparação complementar da decisão integrada no teste.}
+\label{tab:integracao_sincronizada_complementar}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{llrrrr}
+\toprule
+ & & \multicolumn{2}{c}{F1 por instante} & \multicolumn{2}{c}{Eventos alcançados} \\
+Variável & Categoria & União & Selecionada & União & Selecionada \\
+\midrule
+PM$_{10}$ & Oscilação & 0.611 & 0.590 & 27/27 & 25/27 \\
+PM$_{10}$ & Queda & 0.347 & 0.347 & 26/28 & 26/28 \\
+PM$_{2,5}$ & Oscilação & 0.439 & 0.362 & 22/22 & 13/22 \\
+PM$_{2,5}$ & Queda & 0.263 & 0.296 & 24/26 & 24/26 \\
+Temperatura & Oscilação & 0.449 & 0.455 & 25/25 & 24/25 \\
+Temperatura & Queda & 0.269 & 0.229 & 24/26 & 21/26 \\
+Umidade & Oscilação & 0.465 & 0.489 & 23/24 & 23/24 \\
+Umidade & Queda & 0.277 & 0.280 & 25/27 & 25/27 \\
+\bottomrule
+\end{tabular}
+\fonte{Elaborada pela autora.}
+\end{table}
+
+O F1 corresponde à média das cinco rodadas; as contagens de
+eventos foram somadas. A união utiliza pelo menos um voto,
+sem exigir persistência, nos mesmos horários avaliados pela
+regra selecionada. Essas medidas por instante não equivalem
+ao F1 por janela das análises individuais.
+
+A concordância entre modelos não melhorou todas as tarefas.
+Em Oscilação de PM$_{2,5}$ e Queda de Temperatura, houve perda
+de cobertura e de F1. Em Umidade, o F1 aumentou sem redução
+da cobertura em relação à união sincronizada, mas Queda ainda
+sinalizou cerca de 80\% dos instantes. Assim, reduzir sinalizações
+não foi suficiente para demonstrar uma decisão integrada mais
+eficaz de forma geral.
+
+% Sugestão para a conclusão: substituir apenas a afirmação correspondente,
+% sem duplicar a interpretação acima nem apagar resultados individuais.
+% A integração dos classificadores e das regras foi implementada e avaliada.
+% A avaliação complementar mostrou que a concordância entre modelos pode
+% reduzir sinalizações, mas também deixar eventos sem identificação.
+% Portanto, não foi demonstrada melhora uniforme da decisão integrada.

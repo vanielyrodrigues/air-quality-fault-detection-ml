@@ -1,0 +1,104 @@
+{
+  "tipo": "demonstracao_retrospectiva_integrada",
+  "injeção": false,
+  "inicio": "2023-11-02 09:30:00",
+  "fim": "2023-11-09 00:00:00",
+  "rodada": 1,
+  "regras_sobre": {
+    "lacuna": "grade_sem_interpolacao",
+    "persistencia": "serie_preparada"
+  },
+  "estrategia": "multiplas_categorias_sem_prioridade",
+  "observacao": "Janelas positivas não equivalem a eventos distintos. Nenhum diagnóstico físico é atribuído.",
+  "dados_sha256": "a3b370a785183bf752d44bbf02eb1876cca26842f27bc0787760ed54d16036fb",
+  "modelos": [
+    {
+      "variavel": "PM10",
+      "modelo": "catboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 90,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/catboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "08ef5462f18701c0ec3538842c4566e8c2fb04eb8bce42770c394a8939dafb61"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "mlp",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 90,
+      "avanco": 80,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/mlp_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "de1028c558b075c7e0c828210689e79aca07647761ea0a27396956d02bfd1f63"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "random_forest",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 70,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/random_forest_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "c62f23098be2d516eb627e0190742a99723287187acade1fcea3959f4c57b2b6"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "xgboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 70,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/xgboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "b74530da7452a933fc8422e643b1b203d66f6905f47a2d488402a8161fc0f524"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "catboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 45,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/catboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "ce0e38ccc43a0c59cdbebf425818d8f3ef0e979970615a1a00adf0c6014b87c2"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "mlp",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 80,
+      "avanco": 75,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/mlp_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "3e5ea88d8570818800dbb908648dd3e9e8d26af741ff7f8350b1f2240ca6cd7c"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "random_forest",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 80,
+      "avanco": 80,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/random_forest_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "21afbb4f86f61c65972bebcca915e9af5a831399bbb109bc60a60a162ad94dd6"
+    },
+    {
+      "variavel": "PM10",
+      "modelo": "xgboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 80,
+      "avanco": 65,
+      "origem": "integracao_hibrida_20261026/artefatos/PM10/modelos/xgboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "ee39a04d2f4497a7aa8686f377916e2bdfa9c0dcfc7a4824e30499563182a4fe"
+    }
+  ]
+}

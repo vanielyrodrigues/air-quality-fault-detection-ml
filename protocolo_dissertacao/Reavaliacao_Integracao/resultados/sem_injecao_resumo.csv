@@ -1,0 +1,17 @@
+variavel,categoria,estrategia,rodada,k,p,posicoes_avaliadas,posicoes_sinalizadas,fracao_sinalizada
+PM25,oscilacao,selecionada,1,4,1,852,14,0.01643192488262911
+PM25,oscilacao,uniao_sincronizada,1,1,1,852,161,0.18896713615023475
+PM25,queda,selecionada,1,2,1,862,780,0.9048723897911833
+PM25,queda,uniao_sincronizada,1,1,1,862,862,1.0
+PM10,oscilacao,selecionada,1,4,1,852,0,0.0
+PM10,oscilacao,uniao_sincronizada,1,1,1,852,319,0.3744131455399061
+PM10,queda,selecionada,1,1,1,852,517,0.6068075117370892
+PM10,queda,uniao_sincronizada,1,1,1,852,517,0.6068075117370892
+Temperatura,oscilacao,selecionada,1,3,1,852,606,0.7112676056338029
+Temperatura,oscilacao,uniao_sincronizada,1,1,1,852,824,0.9671361502347418
+Temperatura,queda,selecionada,1,2,2,852,744,0.8732394366197183
+Temperatura,queda,uniao_sincronizada,1,1,1,852,845,0.9917840375586855
+Umidade,oscilacao,selecionada,1,3,1,852,45,0.0528169014084507
+Umidade,oscilacao,uniao_sincronizada,1,1,1,852,352,0.4131455399061033
+Umidade,queda,selecionada,1,1,2,852,608,0.7136150234741784
+Umidade,queda,uniao_sincronizada,1,1,1,852,627,0.7359154929577465

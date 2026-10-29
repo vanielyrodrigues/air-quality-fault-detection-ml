@@ -1,0 +1,12 @@
+variavel,inicio,fim,posicoes,estado,categorias,avaliacao_completa,sem_medicao_original
+Temperatura,2023-11-02 09:30:00,2023-11-03 04:00:00,112,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Temperatura,2023-11-03 04:10:00,2023-11-03 08:30:00,27,SINALIZACAO_MULTIPLA,stuck_at_zero;oscilacao;queda,True,False
+Temperatura,2023-11-03 08:40:00,2023-11-04 02:40:00,109,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Temperatura,2023-11-04 02:50:00,2023-11-04 08:30:00,35,SINALIZACAO_MULTIPLA,stuck_at_zero;oscilacao;queda,True,False
+Temperatura,2023-11-04 08:40:00,2023-11-05 22:20:00,227,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Temperatura,2023-11-05 22:30:00,2023-11-06 04:00:00,34,SINALIZACAO_MULTIPLA,stuck_at_zero;oscilacao;queda,True,False
+Temperatura,2023-11-06 04:10:00,2023-11-06 21:40:00,106,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Temperatura,2023-11-06 21:50:00,2023-11-07 02:40:00,30,SINALIZACAO_MULTIPLA,stuck_at_zero;oscilacao;queda,True,False
+Temperatura,2023-11-07 02:50:00,2023-11-08 07:20:00,172,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Temperatura,2023-11-08 07:30:00,2023-11-08 11:20:00,24,SINALIZACAO_MULTIPLA,stuck_at_zero;oscilacao;queda,True,False
+Temperatura,2023-11-08 11:30:00,2023-11-08 23:50:00,75,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False

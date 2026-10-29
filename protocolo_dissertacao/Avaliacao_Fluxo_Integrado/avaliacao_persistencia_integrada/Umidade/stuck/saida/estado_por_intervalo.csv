@@ -1,0 +1,21 @@
+variavel,inicio,fim,posicoes,estado,categorias,avaliacao_completa,sem_medicao_original
+Umidade,2023-11-02 09:30:00,2023-11-02 16:00:00,40,SEM_SINALIZACAO,,True,False
+Umidade,2023-11-02 16:10:00,2023-11-03 02:00:00,60,SINALIZACAO,oscilacao,True,False
+Umidade,2023-11-03 02:10:00,2023-11-03 09:50:00,47,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-03 10:00:00,2023-11-03 14:50:00,30,SINALIZACAO_MULTIPLA,stuck;oscilacao;queda,True,False
+Umidade,2023-11-03 15:00:00,2023-11-03 18:40:00,23,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-03 18:50:00,2023-11-04 01:20:00,40,SINALIZACAO,queda,True,False
+Umidade,2023-11-04 01:30:00,2023-11-04 09:50:00,51,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-04 10:00:00,2023-11-04 14:40:00,29,SINALIZACAO_MULTIPLA,stuck;oscilacao;queda,True,False
+Umidade,2023-11-04 14:50:00,2023-11-04 14:50:00,1,SINALIZACAO_MULTIPLA,stuck;queda,True,False
+Umidade,2023-11-04 15:00:00,2023-11-05 04:00:00,79,SINALIZACAO,queda,True,False
+Umidade,2023-11-05 04:10:00,2023-11-05 16:30:00,75,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-05 16:40:00,2023-11-05 21:50:00,32,SINALIZACAO_MULTIPLA,stuck;oscilacao;queda,True,False
+Umidade,2023-11-05 22:00:00,2023-11-06 01:00:00,19,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-06 01:10:00,2023-11-06 06:30:00,33,SINALIZACAO_MULTIPLA,stuck;oscilacao;queda,True,False
+Umidade,2023-11-06 06:40:00,2023-11-06 13:20:00,41,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-06 13:30:00,2023-11-06 17:30:00,25,SINALIZACAO,queda,True,False
+Umidade,2023-11-06 17:40:00,2023-11-06 18:20:00,5,SINALIZACAO_MULTIPLA,stuck;queda,True,False
+Umidade,2023-11-06 18:30:00,2023-11-06 22:50:00,27,SINALIZACAO_MULTIPLA,stuck;oscilacao;queda,True,False
+Umidade,2023-11-06 23:00:00,2023-11-07 22:40:00,143,SINALIZACAO_MULTIPLA,oscilacao;queda,True,False
+Umidade,2023-11-07 22:50:00,2023-11-08 23:50:00,151,SINALIZACAO,queda,True,False

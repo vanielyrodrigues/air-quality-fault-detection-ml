@@ -1,0 +1,7 @@
+Avaliação retrospectiva no mesmo teste já examinado. Os rótulos indicam injeções, não falhas físicas.
+Oscilação, Queda e Lacuna são avaliadas por posição e cobertura de evento.
+Positivo em qualquer janela estende a marca a todas as posições da janela; isso não indica horário do alerta.
+Stuck e stuck-at-zero não foram injetados no conjunto simultâneo e sua saída é apenas descritiva.
+A preparação integrada interpola ausências antes do classificador, inclusive lacunas simuladas: isso difere da entrada dos classificadores nas tabelas originais.
+A estratégia de união foi construída após observação dos testes e não constitui teste independente.
+As métricas são por posição, ao contrário das métricas por janela do capítulo original.

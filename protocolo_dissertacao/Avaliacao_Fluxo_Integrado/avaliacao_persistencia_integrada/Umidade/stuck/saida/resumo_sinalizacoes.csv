@@ -1,0 +1,10 @@
+variavel,categoria,metodo,modelo,unidade,quantidade
+Umidade,oscilacao,classificador,catboost,janela,3
+Umidade,oscilacao,classificador,mlp,janela,4
+Umidade,oscilacao,classificador,random_forest,janela,3
+Umidade,oscilacao,classificador,xgboost,janela,2
+Umidade,queda,classificador,catboost,janela,5
+Umidade,queda,classificador,mlp,janela,6
+Umidade,queda,classificador,random_forest,janela,3
+Umidade,queda,classificador,xgboost,janela,7
+Umidade,stuck,regra,,intervalo_regra,5

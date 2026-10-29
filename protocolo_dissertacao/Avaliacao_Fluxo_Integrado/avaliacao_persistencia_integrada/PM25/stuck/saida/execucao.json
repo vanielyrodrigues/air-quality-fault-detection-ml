@@ -1,0 +1,104 @@
+{
+  "tipo": "demonstracao_retrospectiva_integrada",
+  "injeção": false,
+  "inicio": "2023-11-02 09:30:00",
+  "fim": "2023-11-09 00:00:00",
+  "rodada": 1,
+  "regras_sobre": {
+    "lacuna": "grade_sem_interpolacao",
+    "persistencia": "serie_preparada"
+  },
+  "estrategia": "multiplas_categorias_sem_prioridade",
+  "observacao": "Janelas positivas não equivalem a eventos distintos. Nenhum diagnóstico físico é atribuído.",
+  "dados_sha256": "84160fdbd4ba24a1b5843aa26a0c99edb04608df7f3a75d96011ec459df5333d",
+  "modelos": [
+    {
+      "variavel": "PM25",
+      "modelo": "catboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 60,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/catboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "b21cd7d68006d663f2352e1399fca04f38e01ced62c1ba976be75e89bae42552"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "mlp",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 100,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/mlp_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "ac0a0ababcc2d421113cfe0e3c4ba573b7ea402373aa7c770b3b64226804f023"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "random_forest",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 60,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/random_forest_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "81b75f4e53b73a4b5f939b676d1c4eba3e9bb568a4bd975131445376466ae3ac"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "xgboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 80,
+      "avanco": 45,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/xgboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "917a41afee68deed2e70316a860b07b042632b1ae9d0ee332838bbc110943917"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "catboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 90,
+      "avanco": 5,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/catboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "916166c3fa8fa35badd727c7ea182ad5f31c9a89f7b6aca08beb30b9d5e53d1b"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "mlp",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 90,
+      "avanco": 75,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/mlp_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "5fce2b2a0d6490bb3a9584d63b0f4bad2f561f937a3915669cbbade00fcb946b"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "random_forest",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 80,
+      "avanco": 5,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/random_forest_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "8b33cf193cc8406bb56f6a7cc72c00ccb3b02ba49da47a7396806beb3cee72d6"
+    },
+    {
+      "variavel": "PM25",
+      "modelo": "xgboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 70,
+      "avanco": 55,
+      "origem": "integracao_hibrida_20261026/artefatos/PM25/modelos/xgboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "7a846f7623d26fcc5fd998a9cefdea4c63b36ebd1e61c47ea6bd502aa8a28abf"
+    }
+  ]
+}

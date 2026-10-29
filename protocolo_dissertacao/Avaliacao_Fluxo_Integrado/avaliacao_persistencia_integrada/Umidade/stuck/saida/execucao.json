@@ -1,0 +1,104 @@
+{
+  "tipo": "demonstracao_retrospectiva_integrada",
+  "injeção": false,
+  "inicio": "2023-11-02 09:30:00",
+  "fim": "2023-11-09 00:00:00",
+  "rodada": 1,
+  "regras_sobre": {
+    "lacuna": "grade_sem_interpolacao",
+    "persistencia": "serie_preparada"
+  },
+  "estrategia": "multiplas_categorias_sem_prioridade",
+  "observacao": "Janelas positivas não equivalem a eventos distintos. Nenhum diagnóstico físico é atribuído.",
+  "dados_sha256": "753dc437f1f361fd38799569091028041ee47e4e224f87b672c9de77e47cbeaa",
+  "modelos": [
+    {
+      "variavel": "Umidade",
+      "modelo": "catboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 80,
+      "avanco": 30,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/catboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "4a0f7e7cd092f5243ceeb09a700167fbd2ec5b8672d9624bd0107b382874f77d"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "mlp",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 90,
+      "avanco": 30,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/mlp_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "78586105c69e91ef06ae9e96c26f477e309d0858631376f9490bf9ea11f71cac"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "random_forest",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 40,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/random_forest_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "a7c3484298be85cdcbe9d2bb41ecb3f68397ba35f1e1b949c7470b31d26071c8"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "xgboost",
+      "falha": "oscilacao",
+      "rodada": 1,
+      "janela": 70,
+      "avanco": 5,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/xgboost_oscilacao_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "2235283fcf5c3cdcdef4f3db9114b36cce3ebe578f9c01ff584c2dc25aa7f960"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "catboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 100,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/catboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "931e10349b6ad86258aa7c63219b41ff8fa4065e0175e4e4a454c659f823dcf2"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "mlp",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 100,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/mlp_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "a2db6c9718647fd43a96ecdf3e105d6436c93bd72e16e5ea9dc07305c2f2ed63"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "random_forest",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 100,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/random_forest_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "616add36bb263c5a040f4a08f5a62dd0ed132e52df11456e3ff0fe541c4cf4d4"
+    },
+    {
+      "variavel": "Umidade",
+      "modelo": "xgboost",
+      "falha": "queda",
+      "rodada": 1,
+      "janela": 100,
+      "avanco": 100,
+      "origem": "integracao_hibrida_20261026/artefatos/Umidade/modelos/xgboost_queda_1.joblib",
+      "ajustado_agora": false,
+      "sha256": "5cef5e8249d51c9e78eacd66f99ae1f1efdf8822b16828ec92d9a187d15a4e3e"
+    }
+  ]
+}
